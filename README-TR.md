@@ -47,7 +47,7 @@ Kullanıma hazır eklenti, komutları yürütmekte olduğunuz klasördeki modül
 
 <li>
 <h5>Eklentiyi php.ini dosyasında tanımlayın.</h5>
-LAMP kurulumunun gerçekleştiği dizin içinde bulunan php/etc yolunda yer alan php.ini dosyasını metin editörü yardımıyla açın ve başında noktalı virgül olmayacak şekilde bir önce adımda kopyaladığınız eklenti adını sisteme tanımlayın. extension=eklentiadi.so
+LAMP kurulumunun gerçekleştiği dizin içinde bulunan <code>php/etc</code> yolunda yer alan <code>php.ini</code> dosyasını metin editörü yardımıyla açın ve başında noktalı virgül olmayacak şekilde bir önce adımda kopyaladığınız eklenti adını sisteme tanımlayın. <code>extension=eklentiadi.so</code>
 </li>
 
 <li>
