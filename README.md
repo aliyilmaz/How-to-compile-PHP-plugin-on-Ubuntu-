@@ -1,4 +1,4 @@
-<h2>How to compile PHP plugin on Ubuntu?</h2>
+<h2>How to compile a PHP extension?</h2>
 <h4>Introduction</h4>
 It is a document describing how the PHP extension is compiled in Linux operating systems.
 
