@@ -41,7 +41,7 @@ make
 
 <li>
 <h5>Copy the compiled add-in between LAMP add-ins.</h5>
-The ready-to-use plug-in can be found in the modules folder in the folder where you applied the commands. Copy the <code>.so</code> extension plug-in file to the <code>php/lib/php/extensions</code> path in the directory where the LAMP installation occurs.
+The ready-to-use plug-in is located in the modules folder in the folder where you are executing the commands. Copy the <code>.so</code> extension plug-in file to the <code>php/lib/php/extensions</code> path in the directory where the LAMP installation occurs.
 </li>
 
 
