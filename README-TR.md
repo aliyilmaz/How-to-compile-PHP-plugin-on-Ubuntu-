@@ -31,10 +31,10 @@ GitHub'daki çoğu uygulamada olduğu gibi, PHP hala geliştirme aşamasında ol
 
 <li>
 <h5>Eklentiyi derleyin.</h5>
-Masaüstüne kopyaladığınız eklenti klasörünü terminalle açın ve sırasıyla aşağıdaki komutları çalıştırın. LAMP kurulumunun dizin bölümünü güncellemeyi unutmayın.
+Kopyaladığınız eklenti klasörünü terminal de açın ve sırasıyla aşağıda ki komutları çalıştırın, LAMP kurulumunun gerçekleştiği dizin kısmını güncellemeyi ihmal etmeyin.
 <pre>
 phpize
-./configure --with-php-config=<strong>The directory where the LAMP installation took place</strong>/php/bin/php-config
+./configure --with-php-config=<strong>LAMP kurulumunun gerçekleştiği dizin</strong>/php/bin/php-config
 make
 </pre>
 </li>
