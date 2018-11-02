@@ -34,7 +34,7 @@ In the PHP source code that you downloaded, the folder named <code>ext</code> is
 Open the add-in folder that you copied to the desktop with the terminal and run the following commands respectively. Do not forget to update the directory part of the LAMP installation.
 <pre>
 phpize
-./configure --with-php-config=<strong>The directory where the LAMP installation took</strong> place/php/bin/php-config
+./configure --with-php-config=<strong>The directory where the LAMP installation took place</strong>/php/bin/php-config
 make
 </pre>
 </li>
