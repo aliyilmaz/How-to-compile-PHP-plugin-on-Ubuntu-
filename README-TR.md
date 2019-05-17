@@ -40,7 +40,7 @@ make
 </li>
 
 <li>
-<h5>Derlenmiş eklentiyi LAMP eklentileri arasında kopyalayın.</h5>
+<h5>Derlenmiş eklentiyi LAMP eklentileri arasına kopyalayın.</h5>
 Kullanıma hazır eklenti, komutları yürütmekte olduğunuz klasördeki modüller klasöründe bulunur. <code>.so</code> uzantılı eklenti dosyasını, LAMP kurulumunun gerçekleştiği dizin içinde ki <code>php/lib/php/extensions</code> yoluna kopyalayın.
 </li>
 
